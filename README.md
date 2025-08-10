@@ -1,6 +1,5 @@
 # 📚 Online Bookstore SQL Project
 An end-to-end SQL data analysis project using an Online Bookstore dataset with 3 tables: Customers, Books, and Orders.
-The project explores business insights using JOINs, GROUP BY, and aggregate functions.
 
 🧩 Tables Used
 
